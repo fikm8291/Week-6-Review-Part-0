@@ -1,5 +1,5 @@
 # -------------------------------------------
-# Ex0_review.py – Whole-class Revision
+# Exercise 0: Whole-class Revision
 # -------------------------------------------
 # In this exercise, we’ll review all the core Python concepts covered so far:
 # - Variables and storing data
@@ -30,7 +30,6 @@ print("-------------------------------------------\n"
 
 
 
-
 # Task 2: Simple For Loop
 # -------------------------------------------
 print("-------------------------------------------\n"
@@ -48,7 +47,6 @@ print("-------------------------------------------\n"
 # Counting: 3
 
 # Write your code below:
-
 
 
 
@@ -72,7 +70,6 @@ print("-------------------------------------------\n"
 
 
 
-
 # Task 4: While Loop Practice
 # -------------------------------------------
 print("-------------------------------------------\n"
@@ -92,27 +89,27 @@ print("-------------------------------------------\n"
 
 
 
-
-# Task 5: Multiplication Table with Loops
+# Task 5: Multiplication Table
 # -------------------------------------------
 print("-------------------------------------------\n"
-    + "Task 5: Multiplication Table\n"
-    + "-------------------------------------------")
+      + "Task 5: Multiplication Table\n"
+      + "-------------------------------------------")
+# In this task, you'll create a multiplication table for a number.
+#
 # TODO:
-# 1. Ask the user for a number.
+# 1. Ask the user to enter a number.
 # 2. Use a for loop to print the multiplication table for that number from 1 to 10.
-# 3. Use a while loop to allow the user to repeat the multiplication table until they say "no".
-
+# 3. Stop automatically once the table reaches 10 — no need to ask the user to continue.
+#
 # Example:
 # Enter a number: 3
 # 3 x 1 = 3
 # 3 x 2 = 6
 # ...
-# Do you want to try another number? yes
-# (loops again)
+# 3 x 10 = 30
+# Output ends automatically after 10.
 
 # Write your code below:
-
 
 
 
@@ -135,7 +132,6 @@ print("-------------------------------------------\n"
 # Average score: 70.0
 
 # Write your code below:
-
 
 
 
